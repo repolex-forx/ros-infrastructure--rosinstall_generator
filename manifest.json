@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "ros-infrastructure",
+  "repo": "rosinstall_generator",
+  "versions": [
+    {
+      "commit": "96b6f03c79c6f178c74694b499442031df9796c5",
+      "parsed_at": "2026-10-17T23:25:06.493088+00:00",
+      "filetree": "filetree/96b6f03c79c6f178c74694b499442031df9796c5.nq.gz",
+      "blobs": [
+        "blob/bdcb6355ab0d77cb5824a62a2925217e6ee38cc6.nq.gz",
+        "blob/d592f320b262b5080388e2daf32d410cf47ec699.nq.gz",
+        "blob/3681decc64ecb97dbde77aef02a952a45c9e17ba.nq.gz",
+        "blob/49037665271423cb72fda7d02cdaa6377dbb1c25.nq.gz",
+        "blob/d00a4beabfd2d70092a894e757e5711209e54b8d.nq.gz",
+        "blob/907137474e2d2f8c628425751c0b1ef4cb14fab3.nq.gz",
+        "blob/e404d4a3761e7c43dc1bc19d1b67f944a970a52b.nq.gz",
+        "blob/5aa111d21380489d219159e7ab0d3857770de0c1.nq.gz",
+        "blob/8be3a199a5f71104efeb23c87800020efe560d47.nq.gz",
+        "blob/3cc149302144d4fa1cea512c3b4334fcb65252b1.nq.gz",
+        "blob/adabbd2de7233a9dcf22a3e7dbe419f9a90d3ea2.nq.gz",
+        "blob/ba364104e61da04a747c635f64733b6297a7db9f.nq.gz",
+        "blob/f348c8d624cc09e0501d476e838f399fe41c52ea.nq.gz",
+        "blob/eca60c53802d43c3a357326b094f9c596ddf3e09.nq.gz",
+        "blob/b7cfad12c5d1c7b28494da9bd49dcc3d55091cd0.nq.gz",
+        "blob/2f3644e990879940c6ab0d469f41e99a857bc86d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
