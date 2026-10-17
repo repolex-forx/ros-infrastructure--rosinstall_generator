@@ -1,0 +1,11 @@
+{
+  "org": "ros-infrastructure",
+  "repo": "rosinstall_generator",
+  "versions": [
+    {
+      "commit": "96b6f03c79c6f178c74694b499442031df9796c5",
+      "tag": "",
+      "parsed_at": "2026-10-17T23:27:16.335246+00:00"
+    }
+  ]
+}
