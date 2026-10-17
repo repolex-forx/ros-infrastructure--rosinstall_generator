@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rosinstall_generator/commit/96b6f03c79c6f178c74694b499442031df9796c5",
       "git:hexsha": "96b6f03c79c6f178c74694b499442031df9796c5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T23:27:16.334626+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rosinstall_generator/commit/41d71f63a166ce3ec8c61f1a5a49afcb2965d512",
